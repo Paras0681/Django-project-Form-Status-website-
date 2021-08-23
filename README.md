@@ -7,6 +7,10 @@ In our college the documents verification and document submission process is ver
 ## Home page of the website 
 ![Screenshot (646)](https://user-images.githubusercontent.com/77244089/130511575-36ba65f0-18bc-495d-99d4-d5c6d743f1c5.png)
 
+## Login Page of the website
+![image](https://user-images.githubusercontent.com/77244089/130512099-631a6e26-9e8c-4c61-943b-1412c8d5dab1.png)
+
+
 
 ## Register page of the website
 ![Screenshot (647)](https://user-images.githubusercontent.com/77244089/130511581-74e6fa3f-934b-43c6-aa53-4d625a61fdd7.png)
